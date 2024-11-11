@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar Ojha</h1>
-<h3 align="center">Pursuing Bachelors Of Computer Application (BCA) || Learning Full Stack Web Development & DSA with Java</h3>
+<h3 align="center">Pursuing Bachelors Of Computer Application (BCA) || Learning Full Stack Web Development & DSA with C++</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
